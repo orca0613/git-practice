@@ -1,2 +1,5 @@
-def f():
-    return 1
+def f(x):
+    return x + 1
+
+def g():
+    return 2
